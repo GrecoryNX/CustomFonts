@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CustomFonts</string>
+    <string name="grecory_ortega_pacifico">Grecory Ortega Pacifico</string>
+    <string name="grecory_ortega_amblebold">Grecory Ortega ambleBold</string>
+    <string name="grecory_ortega_amblelight">Grecory Ortega ambleLight</string>
+    <string name="grecory_ortega_ambleregular">Grecory Ortega ambleRegular</string>
+    <string name="grecory_ortega_opensansregular">Grecory Ortega openSansRegular</string>
+    <string name="grecory_ortega_opensansitalic">Grecory Ortega openSansItalic</string>
+</resources>
